@@ -1,8 +1,8 @@
 # Introduction
 
-UFConnect is a real-time chat application that allows users to connect and communicate with each other using Node.js, Express, and Socket Programming. The application utilizes TCP client-server architecture to enable instant messaging between multiple users.
+UFConnect is a real-time chat application that allows users to connect and communicate with each other using Node.js, Express, and Socket Programming.
 
-UFConnect utilizes TCP-based Socket Programming, enabling multiple clients to establish real-time, reliable, and bidirectional communication with the server. Clients can send messages and the server broadcasts regular messages to all connected clients. Typing indicators enhance the user experience, making UFConnect a seamless and responsive chat application. Additionally, UFConnect features a notification sound that alerts users whenever a new message is received, providing a distinctive and engaging auditory cue for incoming messages.
+The application utilizes TCP-based Socket Programming, enabling multiple clients to establish real-time, reliable, and bidirectional communication with the server. Clients can send messages and the server broadcasts regular messages to all connected clients. Typing indicators enhance the user experience, making UFConnect a seamless and responsive chat application. Additionally, UFConnect features a notification sound that alerts users whenever a new message is received, providing a distinctive and engaging auditory cue for incoming messages.
 
 
 <p align ="center">
