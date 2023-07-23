@@ -1,4 +1,3 @@
-# Introduction
 
 UFConnect is a real-time chat application that allows users to connect and communicate with each other using Node.js, Express, and Socket Programming.
 
